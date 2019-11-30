@@ -1,6 +1,6 @@
 # Jenkins SSH slave Docker image
 
-[`jenkins/ssh-slave`](https://hub.docker.com/r/jenkins/ssh-slave/)
+[`saumas/jenkins-ssh-slave`](https://hub.docker.com/r/saumas/jenkins-ssh-slave)
 
 A [Jenkins](https://jenkins-ci.org) slave using SSH to establish connection.
 
